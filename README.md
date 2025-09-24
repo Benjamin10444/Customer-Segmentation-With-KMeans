@@ -1,5 +1,4 @@
 # Customer-Segmentation-With-KMeans
-Customer Segmentation with K-Means
 A machine learning project that applies K-Means clustering to segment mall customers into univariate, bivariate, and multivariate groups. The analysis includes summary statistics to identify the most effective marketing segments and visualizations to highlight customer behavior patterns.
 
 Tech Stack: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
